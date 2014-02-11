@@ -19,7 +19,6 @@
 		60AAABD618A04B3700ED7BBF /* squat.png in Resources */ = {isa = PBXBuildFile; fileRef = 60AAABD518A04B3700ED7BBF /* squat.png */; };
 		60AAABD918A04C0C00ED7BBF /* UIImage+imageAlpha.m in Sources */ = {isa = PBXBuildFile; fileRef = 60AAABD818A04C0C00ED7BBF /* UIImage+imageAlpha.m */; };
 		60AAABDC18A49E1900ED7BBF /* createFromLibrary.m in Sources */ = {isa = PBXBuildFile; fileRef = 60AAABDB18A49E1900ED7BBF /* createFromLibrary.m */; };
-		60C38B2818AA18F700BC1221 /* newfiles.m in Sources */ = {isa = PBXBuildFile; fileRef = 60C38B2718AA18F700BC1221 /* newfiles.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,8 +42,6 @@
 		60AAABD818A04C0C00ED7BBF /* UIImage+imageAlpha.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+imageAlpha.m"; sourceTree = "<group>"; };
 		60AAABDA18A49E1900ED7BBF /* createFromLibrary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = createFromLibrary.h; sourceTree = "<group>"; };
 		60AAABDB18A49E1900ED7BBF /* createFromLibrary.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = createFromLibrary.m; sourceTree = "<group>"; };
-		60C38B2618AA18F700BC1221 /* newfiles.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = newfiles.h; sourceTree = "<group>"; };
-		60C38B2718AA18F700BC1221 /* newfiles.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = newfiles.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -84,8 +81,6 @@
 				2F360BAC17692C4700D9A404 /* Supporting Files */,
 				60AAABD718A04C0C00ED7BBF /* UIImage+imageAlpha.h */,
 				60AAABD818A04C0C00ED7BBF /* UIImage+imageAlpha.m */,
-				60C38B2618AA18F700BC1221 /* newfiles.h */,
-				60C38B2718AA18F700BC1221 /* newfiles.m */,
 			);
 			path = AVCam;
 			sourceTree = "<group>";
@@ -182,7 +177,6 @@
 				2F360BBF17692C4700D9A404 /* AVCamViewController.m in Sources */,
 				2FDA781D176DB79700509279 /* AVCamPreviewView.m in Sources */,
 				60AAABDC18A49E1900ED7BBF /* createFromLibrary.m in Sources */,
-				60C38B2818AA18F700BC1221 /* newfiles.m in Sources */,
 				60AAABD918A04C0C00ED7BBF /* UIImage+imageAlpha.m in Sources */,
 				2F360BB617692C4700D9A404 /* AVCamAppDelegate.m in Sources */,
 			);
